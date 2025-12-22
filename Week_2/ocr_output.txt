@@ -1,0 +1,11 @@
+
+Extracted text from meme8.jpg:
+
+Extracted text from meme6.jpg:
+Text: NO STRESS, Confidence: 0.92
+Text: JUST' VIBING, Confidence: 0.59
+
+Extracted text from meme7.jpg:
+Text: how toddlers stare at, Confidence: 0.75
+Text: people with visible, Confidence: 0.98
+Text: dsabilities, Confidence: 0.77
